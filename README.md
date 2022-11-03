@@ -1,15 +1,14 @@
 ## Welcome 🌻
 • Hi, you can call me Emillyn/Emi <br>
 • I'm 23 years old, based in São Paulo/Brazil<br>
-• I'm a Science Computer student<br>
+• I'm a Computer Science student<br>
 • Also, a UX designer <br>
 • (soon) Front-End developer by Meta/Coursera <br>
 • I'm currently improving my technical skills, studying Javascript and focused on Vue<br>
-• Open to jobs<br>
 
 <br>
 
-## My technologies 
+## Technologies 
 <div>
 <img src="https://img.shields.io/badge/C-E10098?style=for-the-badge&logo=c&logoColor=white" alt="language C"/>
 <img src="https://img.shields.io/badge/HTML5-007ACC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -19,7 +18,7 @@
 
 <br><br>
   
-## You can follow my progress 
+## Contact me 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emisoares/)](https://www.linkedin.com/in/emisoares/)
 
 <br>
