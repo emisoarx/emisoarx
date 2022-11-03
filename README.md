@@ -21,7 +21,6 @@
   
 ## You can follow my progress 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emisoares/)](https://www.linkedin.com/in/emisoares/)
-[![BEHANCE Badge](https://img.shields.io/badge/-Behance-C13584?style=flat-square&labelColor=C13584&logo=behance&logoColor=white&link=https://www.instagram.com/monis.png/)](https://www.instagram.com/tech.moni/)
 
 <br>
 
