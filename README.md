@@ -1,16 +1,33 @@
-### Hi there 👋
+## Welcome 🌻
+• Hi, you can call me Emillyn/Emi <br>
+• I'm 23 years old, based in São Paulo/Brazil<br>
+• I'm a Science Computer student<br>
+• Also, a UX designer <br>
+• (soon) Front-End developer by Meta/Coursera <br>
+• I'm currently improving my technical skills, studying Javascript and focused on Vue<br>
+• Open to jobs<br>
 
-<!--
-**emisoarx/emisoarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## My technologies 
+<div>
+<img src="https://img.shields.io/badge/C-E10098?style=for-the-badge&logo=c&logoColor=white" alt="language C"/>
+<img src="https://img.shields.io/badge/HTML5-007ACC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=61DAFB" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F0F200?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+  
+## You can follow my progress 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emisoares/)](https://www.linkedin.com/in/emisoares/)
+[![BEHANCE Badge](https://img.shields.io/badge/-Behance-C13584?style=flat-square&labelColor=C13584&logo=behance&logoColor=white&link=https://www.instagram.com/monis.png/)](https://www.instagram.com/tech.moni/)
+
+<br>
+
+## My github stats
+<div align="center">
+  <a href="https://github.com/emisoarx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emisoarx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emisoarx&layout=compact&langs_count=7&theme=dracula"/>
+</div>
