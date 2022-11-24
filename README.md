@@ -5,6 +5,7 @@
 • Also, a UX designer <br>
 • (soon) Front-End developer by Meta/Coursera <br>
 • I'm currently improving my technical skills, studying Javascript and focused on Vue<br>
+•...and C#<br>
 
 <br>
 
