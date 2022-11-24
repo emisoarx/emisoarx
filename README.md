@@ -11,7 +11,7 @@
 ## Technologies 
 <div>
 <img src="https://img.shields.io/badge/C-E10098?style=for-the-badge&logo=c&logoColor=white" alt="language C"/>
-<img src="https://img.shields.io/badge/CSharp-F0F200?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp"/>
+<img src="https://img.shields.io/badge/C#-F0F200?style=for-the-badge&logo=csharp&logoColor=white" alt="csharp"/>
 <img src="https://img.shields.io/badge/HTML5-007ACC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=61DAFB" alt="CSS3"/>
 <img src="https://img.shields.io/badge/JavaScript-F0F200?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
