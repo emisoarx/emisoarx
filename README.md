@@ -1,6 +1,6 @@
 ## Welcome 🌻
 • Hi, you can call me Emillyn/Emi <br>
-• I'm 23 years old, based in São Paulo/Brazil<br>
+• I'm 24 years old, based in São Paulo/Brazil<br>
 • I'm a Computer Science student<br>
 • Also, a UX designer <br>
 • (soon) Front-End developer by Meta/Coursera <br>
