@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Csharp-3BA557?style=for-the-badge&logo=csharp&logoColor=white" alt="c#"/>
 <img src="https://img.shields.io/badge/HTML5-007ACC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=61DAFB" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Java-F0F200?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
+<img src="https://img.shields.io/badge/JAVA-F0F200?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
 </div>
 
 <br><br>
