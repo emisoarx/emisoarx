@@ -3,9 +3,16 @@
 • I'm 24 years old, based in São Paulo/Brazil<br>
 • I'm a Computer Science student<br>
 • Also, a UX designer <br>
-• (soon) Front-End developer by Meta/Coursera <br>
-• I'm currently improving my technical skills, studying Javascript and focused on Vue<br>
+• I'm currently improving my technical skills, studying Java and SQL (ikr)<br>
 •...and C#<br>
+
+## Bem-Vindo (a) 
+• Oi, você pode me chamar de Emillyn/Emi <br>
+• Eu tenho 24 anos, moro em São Paulo - SP<br>
+• Atualmente estou no terceiro semestre de Ciência da Computação<br>
+• Também sou UX Designer <br>
+• Atualmente estou tentando melhorar minhas habilidades técnicas, estudando Java e SQL (é, eu sei)<br>
+•...e C#<br>
 
 <br>
 
@@ -15,7 +22,7 @@
 <img src="https://img.shields.io/badge/Csharp-3BA557?style=for-the-badge&logo=csharp&logoColor=white" alt="c#"/>
 <img src="https://img.shields.io/badge/HTML5-007ACC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=61DAFB" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-F0F200?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
+<img src="https://img.shields.io/badge/Java-F0F200?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
 </div>
 
 <br><br>
