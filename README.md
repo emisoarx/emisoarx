@@ -6,7 +6,7 @@
 • I'm currently improving my technical skills, studying Java and SQL (ikr)<br>
 •...and C#<br>
 
-## Bem-Vindo (a) 
+## Bem-Vindo (a) 🌻
 • Oi, você pode me chamar de Emillyn/Emi <br>
 • Eu tenho 24 anos, moro em São Paulo - SP<br>
 • Atualmente estou no terceiro semestre de Ciência da Computação<br>
@@ -16,7 +16,7 @@
 
 <br>
 
-## Technologies 
+## Technologies / Tecnologias
 <div>
 <img src="https://img.shields.io/badge/Csharp-3BA557?style=for-the-badge&logo=csharp&logoColor=white" alt="c#"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
@@ -29,7 +29,7 @@
 
 <br><br>
   
-## Contact me 
+## Contact me / Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emisoares/)](https://www.linkedin.com/in/emisoares/)
 
 <br>
