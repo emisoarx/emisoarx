@@ -12,7 +12,6 @@
 • Atualmente estou no terceiro semestre de Ciência da Computação<br>
 • Também sou UX Designer <br>
 • Atualmente estou tentando melhorar minhas habilidades técnicas, estudando JavaScript e SQL (é, eu sei)<br>
--
 
 <br>
 
