@@ -3,23 +3,23 @@
 • I'm 24 years old, based in São Paulo/Brazil<br>
 • I'm a Computer Science student<br>
 • Also, a UX designer <br>
-• I'm currently improving my technical skills, studying Java and SQL (ikr)<br>
-•...and C#<br>
+• I'm currently improving my technical skills, studying JavaScript and SQL (ikr)<br>
+
 
 ## Bem-Vindo (a) 🌻
 • Oi, você pode me chamar de Emillyn/Emi <br>
 • Eu tenho 24 anos, moro em São Paulo - SP<br>
 • Atualmente estou no terceiro semestre de Ciência da Computação<br>
 • Também sou UX Designer <br>
-• Atualmente estou tentando melhorar minhas habilidades técnicas, estudando Java e SQL (é, eu sei)<br>
-•...e C#<br>
+• Atualmente estou tentando melhorar minhas habilidades técnicas, estudando JavaScript e SQL (é, eu sei)<br>
+-
 
 <br>
 
 ## Technologies / Tecnologias
 <div>
 <img src="https://img.shields.io/badge/Csharp-3BA557?style=for-the-badge&logo=csharp&logoColor=white" alt="c#"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
+<img src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" alt="java"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
 <img src="https://img.shields.io/badge/HTML5-007ACC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
