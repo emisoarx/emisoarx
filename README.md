@@ -1,6 +1,6 @@
 ## Welcome 🌻
 • Hi, you can call me Emillyn/Emi <br>
-• I'm 24 years old, based in São Paulo/Brazil<br>
+• I'm 25 years old, based in São Paulo/Brazil<br>
 • I'm a Computer Science student<br>
 • Also, a UX designer <br>
 • I'm currently improving my technical skills, studying JavaScript and SQL (ikr)<br>
@@ -8,7 +8,7 @@
 
 ## Bem-Vindo (a) 🌻
 • Oi, você pode me chamar de Emillyn/Emi <br>
-• Eu tenho 24 anos, moro em São Paulo - SP<br>
+• Eu tenho 25 anos, moro em São Paulo - SP<br>
 • Atualmente estou no terceiro semestre de Ciência da Computação<br>
 • Também sou UX Designer <br>
 • Atualmente estou tentando melhorar minhas habilidades técnicas, estudando JavaScript e SQL (é, eu sei)<br>
