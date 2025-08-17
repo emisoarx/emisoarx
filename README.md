@@ -9,7 +9,7 @@
 ## Bem-Vindo (a) 🌻
 • Oi, você pode me chamar de Emillyn/Emi <br>
 • Eu tenho 26 anos, moro em São Paulo - SP<br>
-• Atualmente estou no sétimo semestre de Ciência da Computação<br>
+• Estou no oitavo semestre de Ciência da Computação<br>
 • Também sou UX Designer <br>
 • Atualmente estou tentando melhorar minhas habilidades técnicas, estudando JavaScript e SQL (é, eu sei)<br>
 
