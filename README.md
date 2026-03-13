@@ -5,14 +5,13 @@
 - 🛡️ Currently researching **Cybersecurity in Connected and Autonomous Vehicles** for my thesis.
 - ☁️ Shifting my focus towards **Data Engineering and Cloud Computing**.
 - 🎨 Background in **UX Design** and Front-End development.
-- 📍 Based in São Paulo, Brazil.
+- 📍 Based in São Paulo, Brasil.
 
 ---
 
 ### 🚀 Currently Learning / Estudando no momento
 - 📊 **Data Engineering & Machine Learning** (Bootcamp in progress!).
 - ☁️ **Cloud Fundamentals** & Database Management (SQL).
-- ⚡ Improving my **JavaScript** skills for cleaner, more efficient code.
 
 ---
 
