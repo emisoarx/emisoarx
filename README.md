@@ -1,10 +1,5 @@
 # Hi there! I'm Emillyn (emi.exe) 🌻
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emisoarx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emisoarx&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ### 👩‍💻 About Me / Sobre Mim
 - 🎓 **Computer Science Student** | Finalist (Graduating June 2026).
 - 🛡️ Currently researching **Cybersecurity in Connected and Autonomous Vehicles** for my thesis.
