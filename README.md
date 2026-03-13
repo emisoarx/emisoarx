@@ -1,41 +1,44 @@
-## Welcome 🌻
-• Hi, you can call me Emillyn/Emi <br>
-• I'm 26 years old, based in São Paulo/Brazil<br>
-• I'm a Computer Science student<br>
-• Also, a UX designer <br>
-• I'm currently improving my technical skills, studying JavaScript and SQL (ikr)<br>
+# Hi there! I'm Emillyn (emi.exe) 🌻
 
-
-## Bem-Vindo (a) 🌻
-• Oi, você pode me chamar de Emillyn/Emi <br>
-• Eu tenho 26 anos, moro em São Paulo - SP<br>
-• Estou no oitavo semestre de Ciência da Computação<br>
-• Também sou UX Designer <br>
-• Atualmente estou tentando melhorar minhas habilidades técnicas, estudando JavaScript e SQL (é, eu sei)<br>
-
-<br>
-
-## Technologies / Tecnologias
-<div>
-<img src="https://img.shields.io/badge/Csharp-3BA557?style=for-the-badge&logo=csharp&logoColor=white" alt="c#"/>
-<img src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" alt="java"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-<img src="https://img.shields.io/badge/HTML5-007ACC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=61DAFB" alt="CSS3"/>
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emisoarx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emisoarx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<br><br>
-  
-## Contact me / Contato
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emisoares/)](https://www.linkedin.com/in/emisoares/)
+### 👩‍💻 About Me / Sobre Mim
+- 🎓 **Computer Science Student** | Finalist (Graduating June 2026).
+- 🛡️ Currently researching **Cybersecurity in Connected and Autonomous Vehicles** for my thesis.
+- ☁️ Shifting my focus towards **Data Engineering and Cloud Computing**.
+- 🎨 Background in **UX Design** and Front-End development.
+- 📍 Based in São Paulo, Brazil.
+
+---
+
+### 🚀 Currently Learning / Estudando no momento
+- 📊 **Data Engineering & Machine Learning** (Bootcamp in progress!).
+- ☁️ **Cloud Fundamentals** & Database Management (SQL).
+- ⚡ Improving my **JavaScript** skills for cleaner, more efficient code.
+
+---
+
+### 🛠 Technologies & Tools / Tecnologias e Ferramentas
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Cloud-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Cloud"/>
+</div>
+
+---
+
+### 📫 Connect with me / Vamos conversar?
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emisoares/)](https://www.linkedin.com/in/emisoares/)
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/emi.exe)
 
 <br>
 
-## My github stats
 <div align="center">
-  <a href="https://github.com/emisoarx">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=emisoarx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emisoarx&layout=compact&langs_count=7&theme=dracula"/>
+  <i>"Turning complex data into secure and beautiful experiences."</i>
 </div>
